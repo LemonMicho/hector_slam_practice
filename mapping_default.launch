@@ -26,6 +26,8 @@
 
     <param name="map_frame" value="map" />
     
+    
+    <!-- change value base_frame -> laser_frame-->
     <param name="base_frame" value="laser_frame"/>
     <param name="odom_frame" value="laser_frame"/>
 
